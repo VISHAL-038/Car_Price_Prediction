@@ -33,3 +33,11 @@ Data preprocessing steps included:
 - Converting categorical variables to numeric using techniques such as one-hot encoding.
 - Normalizing or standardizing the data.
 - Removing outliers.
+
+## Modeling
+Machine learning models were developed and evaluated, including:
+ - Linear Regression
+
+## Evaluation
+Models were evaluated based on metrics such as:
+- R-squared (R²)
