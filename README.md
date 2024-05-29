@@ -7,14 +7,7 @@ This project aims to predict the prices of cars based on various features.
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Modeling](#modeling)
-- [Evaluation](#evaluation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Dataset
 The dataset used in this project contains various features of cars such as:
